@@ -20,6 +20,5 @@ calculator/
 ## ▶️ How to Run
 1. Clone the repository
 2. Run the file:
-
 Command:-
 python main.py
